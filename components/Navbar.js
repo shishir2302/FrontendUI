@@ -38,33 +38,33 @@ export default function Navbar() {
                     <div className="fl">
                         <ul className="flex">
                             <li className="m-8 hover:text-2xl ease-in duration-300 hover:animate-bounce">
-                                <a data-nav-event-clicked="Hire Designers" href="/">Find talent</a>
+                                <a data-nav-event-clicked="Hire Designers" href="#">Find talent</a>
                             </li>
 
                             <li className="m-8 hover:text-2xl ease-in duration-300 hover:animate-bounce">
-                                <a data-nav-event-clicked="Inspiration" href="/">Inspiration</a>
+                                <a data-nav-event-clicked="Inspiration" href="#">Inspiration</a>
                             </li>
 
                             <li className="m-8 hover:text-2xl ease-in duration-300 hover:animate-bounce">
-                                <a data-nav-event-clicked="Learn Design" href="/">Learn design</a>
+                                <a data-nav-event-clicked="Learn Design" href="#">Learn design</a>
                             </li>
 
                             <li className="m-8 hover:text-2xl ease-in duration-300 hover:animate-bounce">
-                                <a data-nav-event-clicked="Jobs" href="/">Jobs</a>
+                                <a data-nav-event-clicked="Jobs" href="#">Jobs</a>
                             </li>
 
                             <li className="m-8 hover:text-2xl ease-in duration-300 hover:animate-bounce">
-                                <a data-nav-event-clicked="Go Pro" href="/">Go Pro</a>
+                                <a data-nav-event-clicked="Go Pro" href="#">Go Pro</a>
                             </li>
 
                             <li className="m-8 hover:text-2xl ease-in duration-300 hover:animate-bounce">
-                                <a data-nav-event-clicked="Sign in" href="/">Log in</a>
+                                <a data-nav-event-clicked="Sign in" href="#">Log in</a>
                             </li>
                         </ul>
                     </div>
                 </nav>
 
-                <a className="logo m-8 ml-[170px] mr-[300px] relative" id='logo' href="/">
+                <a className="logo m-8 ml-[170px] mr-[300px] relative" id='logo' href="#">
                     <div id='pink' className="pink w-[2em] h-[2em] rounded-full absolute bg-cyan-500 top-[50%] left-[-0.65em] translate-y-[-50%]"></div>
                     <svg xmlns="http://www.w3.org/2000/svg" width="96" height="30" viewBox="0 0 210 59" fill="none" className="fill-current relative">
                         <title>Dribbble: the community for graphic design</title>
@@ -75,8 +75,8 @@ export default function Navbar() {
 
                 <div className="my-8">
                     <div className="nav2">
-                        <a className="m-2 hover:text-2xl ease-in duration-300 hover:animate-bounce" href="/">Log in</a>
-                        <a className="m-2 hover:text-2xl ease-in duration-300 hover:animate-bounce" href="/">Sign up</a>
+                        <a className="m-2 hover:text-2xl ease-in duration-300 hover:animate-bounce" href="#">Log in</a>
+                        <a className="m-2 hover:text-2xl ease-in duration-300 hover:animate-bounce" href="#">Sign up</a>
                     </div>
                 </div>
 
