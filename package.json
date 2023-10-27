@@ -24,7 +24,6 @@
     "tailwindcss": "^3.3.4"
   }
   "cacheDirectories": {
-"mode_modules/",
 ".next/cache/"
     }
 }
