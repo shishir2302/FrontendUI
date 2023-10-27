@@ -23,7 +23,4 @@
     "postcss": "^8.4.31",
     "tailwindcss": "^3.3.4"
   }
-  "cacheDirectories": {
-".next/cache/"
-    }
 }
